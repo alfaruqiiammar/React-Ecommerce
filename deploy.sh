@@ -1,4 +1,4 @@
-sudo docker stop flask-api
-sudo docker rm flask-api
-sudo docker rmi alfaruqi26/flask-api
-sudo docker run -d --name flaskbaru -p 5000:5000 alfaruqi26/flask-api:2.0
+sudo docker stop reactfix
+sudo docker rm reactfix
+sudo docker rmi alfaruqi26/reactfix
+sudo docker run -d --name reactbaru -p 3000:80 alfaruqi26/reactfix:2.0
