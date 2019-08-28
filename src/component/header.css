@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,600,700,800&display=swap");
+
+.navbarStyle {
+  background-color: black;
+  font-weight: 600;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}

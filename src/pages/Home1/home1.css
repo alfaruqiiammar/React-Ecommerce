@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond:700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,600,700,800&display=swap");
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+.link:hover {
+  color: white;
+}
+.jackInTheBox {
+  color: black;
+  font-size: 50px;
+  font-weight: 600;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+.garis {
+  color: steelblue;
+}
