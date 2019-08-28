@@ -30,6 +30,7 @@ const Intro = props => {
                 waves
                 className="text-center animated flash"
               >
+                Auto Build CUK
                 <img
                   src="http://images4.fanpop.com/image/photos/23700000/Sharing-is-Caring-sam-winchester-23785964-900-700.jpg"
                   style={{ width: "100%", height: "300px" }}
