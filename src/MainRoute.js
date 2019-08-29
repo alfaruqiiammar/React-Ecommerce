@@ -11,7 +11,6 @@ import Profile from "./pages/profile/Profile";
 import Detail from "./pages/detail/detail";
 import Checkout from "./pages/checkout/checkout";
 import Invoice from "./component/invoice";
-import Home2 from "./home";
 import NotFound from "./pages/notfound/NotFound";
 import Footer from "./component/footer";
 import Donasi from "./component/listDonasi";
